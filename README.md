@@ -2,7 +2,7 @@
 
 Este es el código fuente de mi portafolio personal como desarrollador web freelancer. Es una página estática de una sola vista (single-page) diseñada para ser limpia, profesional y totalmente responsiva.
 
-![Vista Previa del Portafolio]([URL_A_UNA_CAPTURA_DE_PANTALLA_DE_TU_SITIO_WEB])
+![Vista Previa del Portafolio]([https://github.com/Imaforbes/freelancer_portfolio/blob/main/Proy3.png?raw=true])
 
 _Sugerencia: Sube una captura de pantalla de tu proyecto a la carpeta y enlaza la imagen aquí para que los visitantes puedan ver tu trabajo de inmediato._
 
